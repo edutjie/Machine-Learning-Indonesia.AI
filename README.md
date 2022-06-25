@@ -1,2 +1,2 @@
-# machine-learning-indonesia.ai
+# Machine-Learning-Indonesia.AI
 Machine Learning Course from AI Mentorship by Indonesia AI
