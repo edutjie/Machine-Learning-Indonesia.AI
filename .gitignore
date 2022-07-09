@@ -130,7 +130,4 @@ dmypy.json
 
 # custom
 example/
-Machine Learning - Data Loading.pptx.pdf
-Machine Learning - Data Visualization.pptx.pdf
-Machine Learning - Data Preprocessing.pptx.pdf
-Machine Learning - Linear & Logistic Regression.pptx.pdf
+Machine Learning - *.pptx.pdf
